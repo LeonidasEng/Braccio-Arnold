@@ -23,7 +23,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-In my foundation year, I had the pleasure of working on a robotics project to experiment with the Braccio robot using MATLAB, Arduino, and the Braccio robotic arm. I collaborated in a small team of three students where we devised solutions for tasks assigned to us by our supervising lecturer for the Mechatronics club, Dr. Mohamed Alkalla. This marked my initial significant project experience, and I thoroughly enjoyed the process, sparking a keen interest in further pursuits in electronics and robotics! 
+In my foundation year, I had the pleasure of working on a robotics project to experiment with a robot I called Arnold after Schwarzenegger himself. Using MATLAB, Arduino, and the Braccio robotic arm. I collaborated in a small team of three students where we devised solutions for tasks assigned to us by our supervising lecturer for the Mechatronics club, Dr. Mohamed Alkalla. This marked my initial significant project experience, and I thoroughly enjoyed the process, sparking a keen interest in further pursuits in electronics and robotics! 
 
 ### Built With
 * MATLAB
