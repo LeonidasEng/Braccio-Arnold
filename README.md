@@ -13,8 +13,6 @@
   <p align="center">
     5 DOF Robotic Arm with camera control system
   <br />
-    <br />
-    <br />
     <a href="https://github.com/LeonidasEng/Braccio-Arnold/tree/main/videos">View Demo Videos</a>
     ·
     <a href="https://github.com/LeonidasEng/Braccio-Arnold/issues">Report Bug</a>
