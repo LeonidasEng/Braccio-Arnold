@@ -13,10 +13,9 @@
   <p align="center">
     5 DOF Robotic Arm with camera control system
   <br />
-    <a href="https://github.com/LeonidasEng/Braccio-Arnold"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/LeonidasEng/Braccio-Arnold/tree/main/videos">View Demo</a>
+    <a href="https://github.com/LeonidasEng/Braccio-Arnold/tree/main/videos">View Demo Videos</a>
     ·
     <a href="https://github.com/LeonidasEng/Braccio-Arnold/issues">Report Bug</a>
     ·
@@ -49,7 +48,7 @@ In my foundation year, I had the pleasure of working on a robotics project to ex
 - [x] Pick up Object from (x,y,z) location and deliver to (x, y, z)
 - [x] Pick up Object and drop from height.
 - [x] Pick up different objects.
-- [x] Build GUI to quickly implement theta values based on x,y,z inputs
+- [x] Build GUI to quickly implement theta values based on x and y inputs
 - [x] Control with camera inteface on GUI
 
 ### Further developments - if I had more time
