@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/LeonidasEng/Braccio-Arnold">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="blob/main/images/Braccio-Arnold.PNG" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Braccio-Arnold</h3>
@@ -16,7 +16,7 @@
     <a href="https://github.com/LeonidasEng/Braccio-Arnold"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/LeonidasEng/Braccio-Arnold/videos">View Demo</a>
+    <a href="https://github.com/LeonidasEng/Braccio-Arnold/tree/main/videos">View Demo</a>
     ·
     <a href="https://github.com/LeonidasEng/Braccio-Arnold/issues">Report Bug</a>
     ·
