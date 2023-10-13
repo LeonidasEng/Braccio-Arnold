@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/LeonidasEng/Braccio-Arnold">
-    <img src="blob/main/images/Braccio-Arnold.PNG" alt="Logo" width="80" height="80">
+    <img src="https://github.com/LeonidasEng/Braccio-Arnold/blob/main/images/Braccio-Arnold.PNG" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Braccio-Arnold</h3>
